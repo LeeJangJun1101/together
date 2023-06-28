@@ -19,7 +19,7 @@ public class ejum01Servlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
-		response.getWriter().append("Hello ejum01");
+		response.getWriter().append("Hello, ejum01");
 		
 	}
 
