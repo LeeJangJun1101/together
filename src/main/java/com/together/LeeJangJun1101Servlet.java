@@ -19,7 +19,7 @@ public class LeeJangJun1101Servlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Hello, LeeJangJun1101 나는 이장준이다");
+		response.getWriter().append("Hello, LeeJangJun1101 나는 변태다 히히 오줌발싸 히히ㅋㅋ");
 	}
 
 }
