@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Together App</h1>
+	<a href="https://www.naver.com">네이버</a>
 </body>
 </html>
