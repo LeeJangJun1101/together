@@ -10,5 +10,6 @@
 	<h1>Together App</h1>
 	<a href="https://www.naver.com">네이버</a>
 	<a href="<%= request.getContextPath() %>/ejum01"></a>
+	<a href="<%= request.getContextPath() %>/leejangjun"></a>
 </body>
 </html>
